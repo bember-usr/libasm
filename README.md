@@ -3,10 +3,10 @@
 ___Development repo for 42cursus' libasm project___
 
 For further information about 42cursus and its projects,
-please refer to [42cursus](https://github.com/appinha/42cursus) repo.
+please refer to **[42cursus](https://github.com/appinha/42cursus)** repo.
 
 # `🗣️ About`
-> The aim of this project is to get familiar with assembly language.
+> *The aim of this project is to get familiar with assembly language.*
 
 For detailed information, refer to the [subject](https://github.com/appinha/42cursus/tree/master/_PDFs) of this project.
 
